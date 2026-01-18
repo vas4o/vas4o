@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Linux CLI tools
-- 🌱 I’m currently learning bash and c
+- 🌱 I’m currently learning C
 - 💬 Ask me about linux
 - 📫 How to reach me: vaskoterziev30@gmail.com
 - 😄 Pronouns: he/him
